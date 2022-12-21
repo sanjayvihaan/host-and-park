@@ -1,3 +1,33 @@
+# Project Outlook:
+![App Screenshot](https://i.ibb.co/rph10vC/Home.png)
+
+# Admin Dashboard
+![App Screenshot](https://i.ibb.co/wyWFDgL/Admin-Add-Lots.png)
+![App Screenshot](https://i.ibb.co/SN7sT2X/Admin-Dashboard.png)
+![App Screenshot](https://i.ibb.co/tcxXwNq/Admin-Home.png)
+![App Screenshot](https://i.ibb.co/zNy1H64/Admin-Premium-Services.png)
+![App Screenshot](https://i.ibb.co/0rhF5NF/Admin-Record.png)
+![App Screenshot](https://i.ibb.co/zXChh5v/Admin-Setting.png)
+
+# User Dashboard
+![App Screenshot](https://i.ibb.co/L5hQT5Q/User-Dashboard.png)
+![App Screenshot](https://i.ibb.co/wBPfzN5/User-Record.png)
+![App Screenshot](https://i.ibb.co/M15BrfW/User-Setting.png)
+
+
+---
+
+## Idea output:
+
+[Documentation PPT](https://1drv.ms/p/s!AuM0n4oRkA8OhoUTVWo2kuvl3Su9uQ?e=hSaauv)
+
+[Video Document](https://1drv.ms/v/s!AuM0n4oRkA8OhoUSSSPviC_birDa3Q?e=mnoZtu)
+
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
